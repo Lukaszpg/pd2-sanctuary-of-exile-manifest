@@ -2,7 +2,7 @@
   {
     "filename": "BH.dll",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/BH.dll",
-    "hash": "1a33ce1542b31844345d1343617030c59c79e7409a790e69883301508f3f2ed0"
+    "hash": "8df017ede88eda39d35ba47393f92d3da12cff763c23b6c5a07fa37c02868973"
   },
   {
     "filename": "D2Game.dll",
@@ -12,11 +12,11 @@
   {
     "filename": "pd2data.mpq",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/pd2data.mpq",
-    "hash": "9bb0cd29a422815eadd4370e0bd805a2a42a23eff09ae01f8350c399b2128bd1"
+    "hash": "f118b7b3e73459ee2c59c5e62859d147be406c25572019362cb76a3c0ab555f4"
   },
   {
     "filename": "ProjectDiablo.dll",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/ProjectDiablo.dll",
-    "hash": "bd6cfc0fb1955757fe36510123e8f009c03a8c55560914fad773b2be276b9181"
+    "hash": "b89595114094e57c9260f36d2cd50c1e732e1d9ae265f3909edc3178f9936fcd"
   }
 ]
