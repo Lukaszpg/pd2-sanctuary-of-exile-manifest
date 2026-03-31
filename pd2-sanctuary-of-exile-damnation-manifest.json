@@ -12,7 +12,7 @@
   {
     "filename": "pd2data-damnation.mpq",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/pd2data-damnation.mpq",
-    "hash": "44ed3c7bb63002a7c0e7bb5cfec2f465c98e9c09a0de8ab8419cbb790101a54e"
+    "hash": "ee2338aebf61e99ff49d24b89420c40849d74a973ea29343315ebd4cf91e02b9"
   },
     {
     "filename": "pd2maps.mpq",
@@ -27,6 +27,6 @@
   {
     "filename": "ProjectDiablo-damnation.dll",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/ProjectDiablo-damnation.dll",
-    "hash": "d177c61fb16b46dd844b3dba471c5d65bb7ce4a442a81d6ce417048acf0b7088"
+    "hash": "774d4a58ad13d334b338e5d902faac95a523ce80c18cdc4b93cf3c6333ebce3b"
   }
 ]
