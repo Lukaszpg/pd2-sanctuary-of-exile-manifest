@@ -2,31 +2,31 @@
   {
     "filename": "BH.dll",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/BH.dll",
-    "hash": "8df017ede88eda39d35ba47393f92d3da12cff763c23b6c5a07fa37c02868973"
+    "hash": "eb60c9883080ffea3f0c71f0e1d63b2f17953307e737c212080c657acf67b452"
   },
   {
     "filename": "D2Game.dll",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/D2Game.dll",
-    "hash": "02ef804eedd2a53ddb47105f7f98e96b665816eedac9ca43a48d5085089e3785"
+    "hash": "22181945311d898778f27c0875811ab19320725c892fe632ee3dae8b24f95bdf"
   },
   {
     "filename": "pd2data-damnation.mpq",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/pd2data-damnation.mpq",
-    "hash": "dd90ca67c746d3c2816eb71fe77329008a31bf64349c5766d70759a43a1d22af"
+    "hash": "8f7b6039ee9935b0eab75ffafde5d4b3731738512cfece4d67307b0980ba5d5c"
   },
     {
     "filename": "pd2maps.mpq",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/pd2maps.mpq",
-    "hash": "f1c68eb9501b07aacd9919e9f5063a0de78c5253710938de35457a9726b25d60"
+    "hash": "6a222f9f76d606d40848195f9d06e28438a508d4ad3c5b23362b5edaac76c503"
   },
   {
     "filename": "pd2assets.mpq",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/pd2assets.mpq",
-    "hash": "a9ff16aba2c789ca8c72f422408d005d32206e21f0148ce93caae8271fd4bc10"
+    "hash": "f4ced74e8505520477220b84ff751dca0ac89d94af6250837fce9ed51545220f"
   },
   {
     "filename": "ProjectDiablo-damnation.dll",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/ProjectDiablo-damnation.dll",
-    "hash": "6bbf90942b34832b8e617f60c830d956ce455d80e226085a3432dd7504b9d015"
+    "hash": "ee5726a1d844fbe0d3c6d7974d9e2c38e3d3dc26655dd11a8b4883d1f6c6da15"
   }
 ]
