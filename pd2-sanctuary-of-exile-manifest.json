@@ -12,7 +12,7 @@
   {
     "filename": "pd2data.mpq",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/pd2data.mpq",
-    "hash": "4f71a0b7277fbe95f8a89a9f5a13edf7dbae22b41ae2316acac509fbdebc6a9d"
+    "hash": "d3252a82e89cea402a68c059bdddd98c8a1d174a5f637edd4b0b43256b09465c"
   },
     {
     "filename": "pd2maps.mpq",
@@ -22,11 +22,11 @@
   {
     "filename": "pd2assets.mpq",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/pd2assets.mpq",
-    "hash": "76025e38f2570620a89a4912aa2af1b40844dbe111b0d70ce0aa1857acc69306"
+    "hash": "7ecd5095763f5812799b2c14ecd2dba452d8e5b604fb3ce0e50c1b658d54291f"
   },
   {
     "filename": "ProjectDiablo.dll",
     "url": "https://github.com/Lukaszpg/PD2-Sanctuary-of-Exile/releases/latest/download/ProjectDiablo.dll",
-    "hash": "ed243c757685551b9c645c4ed3332786765eacd54128977b76692c800639ec79"
+    "hash": "d3f1c9f2c0a0011ca87117aed457bac7509fcae5a13c5e995b50ce041a83b084"
   }
 ]
